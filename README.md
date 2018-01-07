@@ -12,4 +12,7 @@ function a() {
     console.log(1);
 }
 ```
+
+연필을 누르고 추가로 코드를 작성하세요
+
 로컬에서 수정한 readme.md 텍스트
